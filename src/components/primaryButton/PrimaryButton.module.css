@@ -1,0 +1,17 @@
+.button {
+    border: 0px;
+    outline: none;
+    height: 40px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 12px;
+    font-size: 16px;
+    background-color: #c54340;
+    color: white;
+    text-transform: uppercase;
+}
+
+.button:active {
+    opacity: 0.9;
+    transition: 0.1s;
+}
